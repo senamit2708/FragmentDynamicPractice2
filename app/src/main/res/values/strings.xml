@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">FragmentDynamicPractice2</string>
+
+    <array name="result">
+        <item>amit</item>
+        <item>sen</item>
+        <item>sonali</item>
+
+
+
+
+
+    </array>
 </resources>

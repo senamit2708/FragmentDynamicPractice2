@@ -5,8 +5,10 @@
     android:background="@android:color/holo_red_dark">
 
     <TextView
+        android:gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="This is fragment 2"/>
+        android:layout_height="match_parent"
+        android:text="This is fragment 2"
+        android:id="@+id/textview2"/>
 
 </LinearLayout>
